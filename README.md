@@ -13,3 +13,4 @@ Repositorio con algunos ejemplos de simulación básica en spice
 * https://www.ni.com/es-co/innovations/white-papers/11/spice-analysis-fundamentals.html
 * http://www2.eng.cam.ac.uk/~dmh/ptialcd/jfet/tut_spice3_jfet_bias.html
 * https://www.seas.upenn.edu/~jan/spice/spice.overview.html
+* http://www2.eng.cam.ac.uk/~dmh/
