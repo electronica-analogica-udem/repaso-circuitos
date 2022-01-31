@@ -14,3 +14,7 @@ Repositorio con algunos ejemplos de simulación básica en spice
 * http://www2.eng.cam.ac.uk/~dmh/ptialcd/jfet/tut_spice3_jfet_bias.html
 * https://www.seas.upenn.edu/~jan/spice/spice.overview.html
 * http://www2.eng.cam.ac.uk/~dmh/
+* http://ngspice.sourceforge.net/ngspice-tutorial.html#rr
+* https://www.seas.upenn.edu/~jan/spice/PSpice_ReferenceguideOrCAD.pdf
+* https://www.ee.iitb.ac.in/course/~dghosh/ngspice-2.pdf
+
