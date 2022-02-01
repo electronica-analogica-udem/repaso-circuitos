@@ -18,3 +18,4 @@ Repositorio con algunos ejemplos de simulación básica en spice
 * https://www.seas.upenn.edu/~jan/spice/PSpice_ReferenceguideOrCAD.pdf
 * https://www.ee.iitb.ac.in/course/~dghosh/ngspice-2.pdf
 * https://www.cpp.edu/~prnelson/courses/ece220/220-spice-notes.pdf
+* http://www.ece.mcgill.ca/~grober4/SPICE/SPICE_Decks/spicedecks_ed2_index.html
