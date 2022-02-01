@@ -1,0 +1,16 @@
+Circuito ejemplo
+
+** Circuit Description **
+
+Vs 1 0 DC 24V
+R1 1 2 4
+R2 2 0 2
+R3 4 0 8
+R4 4 0 4
+R5 2 3 2
+R6 2 4 1
+E1 4 3 4 0 3
+
+** Analysis Requests **
+.OP
+.end
